@@ -1,0 +1,17 @@
+main_nb.ipynb
+__pycache__/GNN.cpython-310.pyc
+__pycache__/graph.cpython-310.pyc
+__pycache__/metrics.cpython-310.pyc
+__pycache__/mind_utils.cpython-310.pyc
+__pycache__/transformer.cpython-310.pyc
+__pycache__/utils.cpython-310.pyc
+data/mind/training_small/behaviors.tsv
+data/mind/training_small/entity_embedding.vec
+data/mind/training_small/news.tsv
+data/mind/training_small/relation_embedding.vec
+data/mind/validation_small/behaviors.tsv
+data/mind/validation_small/entity_embedding.vec
+data/mind/validation_small/news.tsv
+data/mind/validation_small/relation_embedding.vec
+runs/tb/L_test_16_reindex/events.out.tfevents.1675677873.big-ubbie.10244.0
+todo.py
